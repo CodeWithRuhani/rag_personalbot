@@ -1,8 +1,9 @@
 streamlit
 google-generativeai
-langchain
+langchain_community
 faiss-cpu
 sentence_transformers
 dotenv
+
 
 
