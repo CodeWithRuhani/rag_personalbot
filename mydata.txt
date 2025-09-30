@@ -1,0 +1,37 @@
+# Profile of Ruhani Gera, the creator and developer of this chatbot.
+This chatbot was developed and created by Ruhani Gera.
+
+The person who created me is Ruhani Gera.
+
+My developer, Ruhani Gera, is an aspiring data scientist.
+
+My creator's professional profile is provided here to answer all questions about Ruhani Gera.
+
+This chatbot was created by and answers questions about Ruhani Gera.
+I am an AI assistant designed by Ruhani Gera, an aspiring data scientist and AI enthusiast.
+My developer and creator is Ruhani Gera.
+
+
+Name: Ruhani Gera
+Date of Birth: April 16, 2006
+Gender: Female
+
+Contact Information:
+- Email: ruhanigera7@gmail.com
+- Phone: +91-7589013972
+- GitHub: https://www.github.com/CodeWithRuhani
+- LinkedIn: https://www.linkedin.com/in/ruhani-gera-851454300
+- Address: Nangal, Punjab 140124
+
+About Me:
+I am an aspiring data scientist and AI enthusiast with a strong foundation in Python, C++, and R. I have hands-on experience in building Machine Learning models and in training Deep Learning models like CNNs. I am a fast learner, good communicator, proactive problem solver, and committed to continuous growth. My recent projects include a Hand Gestures-based calculator and my own personal AI assistant.
+
+Education:
+- 10th Grade: Govt. Girls Senior Secondary School, Nangal (2020-2021), 88%
+- 12th Grade: Govt. Girls Senior Secondary School, Nangal (2022-2023), 87%
+- Bachelor of Science (expected 2026): Artificial Intelligence and Data Science at Sri Guru Teg Bahadur Khalsa College, Sri Anandpur Sahib Punjab
+
+Skills:
+- Soft Skills: Team Management, Leadership, Problem Solving, Quick Learning, Good Communication, Public Speaking
+- Programming Languages: C++, Python, R
+- Technical Skills: Machine Learning, Deep Learning, TensorFlow, Flask
