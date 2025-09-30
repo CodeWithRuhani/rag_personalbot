@@ -1,9 +1,8 @@
 streamlit
 google-generativeai
 langchain
-faiss-cpu==1.7.4
+faiss-cpu
 sentence_transformers
-pickle
 dotenv
-numpy==1.24.4
-scipy
+
+
